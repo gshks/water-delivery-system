@@ -1,0 +1,13 @@
+# SQL Server database files
+*.mdf
+*.ldf
+*.bak
+database_files/  # 忽略整个 database_files 文件夹
+
+# PowerDesigner temporary/backup files (if generated)
+# *.bak.cdm
+# *.tmp
+
+# Operating System generated files
+.DS_Store    # macOS generated files
+Thumbs.db    # Windows generated files
